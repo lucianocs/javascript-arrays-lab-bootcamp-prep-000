@@ -5,33 +5,33 @@ var kittens = ["Milo", "Otis", "Garfield"]
 
 function destructivelyAppendKitten(name){
   kittens.push(name)
-  }
+}
 
 function destructivelyPrependKitten(name){
-  
-  }
 
-  function destructivelyRemoveLastKitten(){
-    
-  }
+}
 
-  function destructivelyRemoveFirstKitten(){
-  
-  }
+function destructivelyRemoveLastKitten(){
 
-  function appendKitten(name) {
+}
 
-  }
+function destructivelyRemoveFirstKitten(){
 
-  function prependKitten(name){
-    
-  }
+}
 
-  
-  function removeLastKitten(){
+function appendKitten(name) {
 
-  }
+}
 
-  function removeFirstKitten(){
-    
-  }
+function prependKitten(name){
+
+}
+
+
+function removeLastKitten(){
+
+}
+
+function removeFirstKitten(){
+
+}
