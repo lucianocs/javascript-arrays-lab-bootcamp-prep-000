@@ -5,5 +5,3 @@ kittens = ["Milo", "Otis", "Garfield"];
 function destructivelyAppendKitten(kitkat){
   kittens.push(kitkat);
 }
-
-
